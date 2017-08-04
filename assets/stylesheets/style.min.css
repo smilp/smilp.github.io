@@ -4170,3 +4170,12 @@ html,body{
 a{
     text-decoration: none;
 }
+
+.picture{
+    animation: maware 5s infinite;
+}
+@keyframes maware{
+    0%{transform:rotate(0deg);}
+    30%{transform:rotate(360deg);}
+    100%{transform:rotate(360deg);}
+}
