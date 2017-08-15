@@ -22,3 +22,10 @@ function eggNotice1(){
 function eggNotice2(){
     alert("提示：那是一个生日礼物噢！");
 }
+//儒创建的div我就不客气地借用啦嘻嘻（
+function smilp1(){
+    alert("哇我的妈，我就说怎么找不到你这玩意儿写哪儿的\n终于被我找到了嘻嘻嘻嘻嘻\n但是你不可以用奇怪的方法找\n请你慢慢把所有可能的一个个点开谢谢合作");
+}
+function smilp2(){
+    alert("嗨嗨嗨，不是这里噢❤");
+}
