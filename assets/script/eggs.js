@@ -36,5 +36,5 @@ function smilp4(){
     alert("彩蛋寻找完成度：2/3 鼓掌o(〃'▽'〃)o\n /s/1jI66h06 \n好啦，密码到底在哪里呢w\n提示last：你自己找咯◐▽◑");
 }
 function last(){
-    alert("哇我的妈);
+    alert("哇我的妈");
 }
