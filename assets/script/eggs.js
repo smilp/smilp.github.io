@@ -27,7 +27,7 @@ function smilp1(){
     alert("哇我的妈，我就说怎么找不到你这玩意儿写哪儿的\n终于被我找到了嘻嘻嘻嘻嘻\n但是你不可以用奇怪的方法找\n请你慢慢把所有可能的一个个点开谢谢合作\n提示2：❤");
 }
 function smilp2(){
-    alert("嗨嗨嗨，不是这里噢❤继续找找w");
+    alert("哼哼哼");
 }
 function smilp3(){
     alert("嗯好的w恭喜恭喜w彩蛋的1/3：\n https://pan.baidu.com \n提示3：既然能找到这个了，下一个就知道是哪里了吧(ﾉ*･ω･)ﾉ");
@@ -36,5 +36,5 @@ function smilp4(){
     alert("彩蛋寻找完成度：2/3 鼓掌o(〃'▽'〃)o\n /s/1jI66h06 \n好啦，密码到底在哪里呢w\n提示last：你自己找咯◐▽◑");
 }
 function last(){
-    alert("哇我的妈");
+    alert("哼！");
 }
